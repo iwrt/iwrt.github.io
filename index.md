@@ -16,15 +16,15 @@ iWRT心声
 iWRT系列
 -------------------------------------------------------------------
 
-根据OpenWRT的分支，iWRT目前提供4个系列:
-
-* 源于[Lean大神](https://github.com/coolsnowwolf/lede)的iWRT_Lede小钢炮系列，下载地址：[点击进入网盘下载](https://lede.lanzouv.com/b00w8axfe)
+根据OpenWRT的分支，iWRT目前提供3个系列:
 
 * 源于[官方原版](https://github.com/openwrt/openwrt)的iWRT_22.03稳定版系列，下载地址：[点击进入网盘下载](https://lede.lanzouo.com/b00w9tzkb)
 
-* 源于[Immortalwrt团队](https://github.com/immortalwrt/immortalwrt)的iWRT_21.02稳定版系列，下载地址：[点击进入网盘下载](https://lede.lanzouv.com/b00w8axqf)
+* 源于[Lean大神](https://github.com/coolsnowwolf/lede)的iWRT_Lede小钢炮系列，下载地址：[点击进入网盘下载](https://lede.lanzouv.com/b00w8axfe)
 
-* 超级稳定的iWRT_18.06/19.07养老版系列，适合不折腾。下载地址：[点击进入网盘下载](https://lede.lanzouo.com/b00tcg9sf)
+* 源于[Immortalwrt团队](https://github.com/immortalwrt/immortalwrt)的iWRT_18.06养老版系列，下载地址：[点击进入网盘下载](https://lede.lanzouo.com/b00tcg9sf)
+
+也可直接进入网盘下载：[网盘Ⅰ] (https://pan.iwrt.top) 或者 [网盘Ⅱ](https://disk.iwrt.top)    
 
 
 iWRT提醒
@@ -52,9 +52,9 @@ iWRT教程
 iWRT致谢
 -------------------------------------------------------------------
 
-  * 感谢Lean大神，Lienol大神，Immortwrt团队，Kiddin9大神以及各开源APP插件作者。
+  * 感谢Lean大神，Lienol大神，Immortalwrt团队，Kiddin9大神以及各开源APP插件作者。
   * 感谢[Jerrykuku大神提供的argon主题](https://github.com/jerrykuku/luci-theme-argon.git)，iWRT默认使用该主题。
-  * 感谢阿里和github提供快捷的储存以及编译服务。
+  * 感谢蓝奏云储存、阿里云储存和github提供快捷的储存以及编译服务。
   * 最后也要谢谢我，虽然是个搬运工，但是真的不容易。
   
 iWRT之力
