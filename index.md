@@ -24,7 +24,7 @@ iWRT系列
 
 * 源于[Immortalwrt团队](https://github.com/immortalwrt/immortalwrt)的iWRT_18.06养老版系列，下载地址：[点击进入网盘下载](https://lede.lanzouo.com/b00tcg9sf)
 
-也可直接进入网盘下载：[网盘Ⅰ] (https://pan.iwrt.top) 或者 [网盘Ⅱ](https://disk.iwrt.top)    
+也可直接进入网盘下载：[网盘Ⅰ](https://pan.iwrt.top) 或者 [网盘Ⅱ](https://disk.iwrt.top)    
 
 
 iWRT提醒
